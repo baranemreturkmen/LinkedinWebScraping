@@ -18,3 +18,5 @@ tasarlanan algoritma gereği gelen tekrarlanan aynı ilanların dataframe'den si
 
 Scrape ortamı oluşturulurken kullanılan kodlar, tasarlanan algoritmanın mantığı ve web elementlerinden elde edilen bilgilerden dataframe oluşturulması gibi
 konular detaylı bir şekilde kodların bulunduğu dosyada açıklanmıştır. Bu noktada sorularınız olursa benimle iletişime geçmekten çekinmeyin lütfen.
+
+Not: Kodlar google chrome'un 88.0.4324.96 ve 88.0.4324.104 sürümüyle uyumlu bir şekilde çalışmaktadır. Chrome'un sürüm güncellemesi durumunda stabil çalışmayacaktır.
